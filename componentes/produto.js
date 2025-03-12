@@ -149,7 +149,7 @@ const styles = StyleSheet.create({
   },
   valuesDisplay: {
     width: "100%",
-    backgroundColor: "#f5f5f5",
+    backgroundColor: "#e1e1e1",
     padding: 10,
     borderRadius: 8,
     marginVertical: 15,
